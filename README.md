@@ -54,7 +54,7 @@ To build and test ft_printf, clone this repository and run make:
 
 ```shell
 
-git clone https://github.com/alpardayalman/ft_printf_origin.git
+git clone https://github.com/alpardayalman/ft_printf.git
 cd ft_printf
 make
 ```
